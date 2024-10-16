@@ -128,7 +128,8 @@ int main() {
 
 ## OUTPUT:
 
-![Screenshot 2024-10-16 233652](https://github.com/user-attachments/assets/c2180009-88d7-4d1a-b711-fc0687f1e712)
+![Screenshot 2024-10-16 234950](https://github.com/user-attachments/assets/7be223b3-4f81-49da-8dbb-c7283f74e3c3)
+
 
 ## RESULT:
 
